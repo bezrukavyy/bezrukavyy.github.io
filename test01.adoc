@@ -3,3 +3,5 @@
 
 Rubies are red,
 Topazes are blue.
+
+TIP: test special block
