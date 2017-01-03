@@ -1,5 +1,12 @@
 = Line Break Doc Title
-:hardbreaks:
 
-Rubies are red,
+WARNING: Rubies are red
 Topazes are blue.
+
+TIP: test special block
+
+[source, java]
+----
+code sample; 
+this is a program
+----
