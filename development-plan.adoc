@@ -1,4 +1,4 @@
-= Development Plan for Gene Bezrukavyy
+= Gene Bezrukavyy / Development Plan
 Gene Bezrukavyy
 
 .Development Goals
