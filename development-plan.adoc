@@ -30,8 +30,7 @@ Gene Bezrukavyy
 --
 Name:: From Developer to Architect: Patterns, Architecture Types, Soft Skills, and Continuous Delivery
 Description:: This tutorial is designed to help developers and "accidental" architects understand the scope, role requirements, and technical details to start the journey toward Software Architect.
-Date Completed:n/a
-Progress:: 80
+Date Completed:: tbd (80%)
 Goal:: <<ea>>
 Award/certification:: n/a
 --
