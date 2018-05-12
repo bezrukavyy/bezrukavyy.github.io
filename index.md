@@ -1,5 +1,6 @@
 # Gene Bezrukavyy
 ## Enterprise Applications Developer / Architect
+[Linked In](www.linkedin.com/in/genebezrukavyy)
 
 I am an Enterprise Systems Developer / Architect and a Security professional with 17+ years of experience working in the field of implementing packaged software solutions as well as creating custom software designs and implementing custom software. 
 
