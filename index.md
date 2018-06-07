@@ -1,3 +1,5 @@
+---
+---
 # Gene Bezrukavyy
 ## Enterprise Applications Developer / Architect
 [Linked In](http://www.linkedin.com/in/genebezrukavyy)
